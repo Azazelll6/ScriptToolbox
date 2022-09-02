@@ -1,11 +1,11 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "PlayerData", menuName = "My Game/Variables/Player Data")]
+[CreateAssetMenu(fileName = "PlayerData", menuName = "Variables/Game Objects/Player Data")]
 public class PlayerData : ScriptableObject
 {
     public int health;
     public int damage;
-    public float speed;
+    public float movementSpeed;
     public float ammoSpeed;
     public float ammoSpinSpeed;
     public float ammoLife;

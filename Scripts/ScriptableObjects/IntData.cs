@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu (menuName = "My Game/ScriptableInt")]
-public class ScriptableInt : ScriptableObject
+[CreateAssetMenu (menuName = "Values/IntData")]
+public class IntData : ScriptableObject
 {
     public int value;
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "GameData", menuName = "My Game/Variables/Game Data")]
+[CreateAssetMenu(fileName = "GameData", menuName = "Variables/Game Management/Game Data")]
 public class GameData : ScriptableObject
 {
     public float powerUpDuration;
