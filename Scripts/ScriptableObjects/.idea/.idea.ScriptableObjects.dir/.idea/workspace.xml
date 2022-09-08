@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f112a07-82d4-4f02-8f3d-9b97a885c306" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnemyData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EnemyData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerUps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PowerUps.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableInt.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableInt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ScriptableObjects.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ScriptableObjects.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +10,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/EnemyData.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../AmmoController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EnemyData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IntData.cs" root0="SKIP_HIGHLIGHTING" />
@@ -53,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662147082790</updated>
-      <workItem from="1662147089842" duration="1079000" />
+      <workItem from="1662147089842" duration="1958000" />
     </task>
     <servers />
   </component>
