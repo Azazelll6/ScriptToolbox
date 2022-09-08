@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "My Game/Variables/SpinAndBounce")]
+[CreateAssetMenu(menuName = "Variables/SpinAndBounce")]
 public class SpinAndBounce : ScriptableObject
 { 
    public float spinSpeed;
